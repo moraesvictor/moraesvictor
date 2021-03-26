@@ -18,4 +18,5 @@
  - Soccer
  - Coding
  - Games
+ - Bass Player
 <p>Check out below some projects that I'd proudly done: <p>
