@@ -15,7 +15,7 @@
 <img align = left src = "reactLogo.jpg" width = 20><br>
 
 ### Hobbies
- - Soccer
+ - Soccer/ Goalkeeper
  - Coding
  - Games
  - Bass Player
