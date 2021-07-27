@@ -22,4 +22,3 @@
 <p>Check out below some projects that I'd proudly done: <p>
   <p>Thank you<p>
     <p>Grazie Mille<p>
-      <p>Obrigado<p>
