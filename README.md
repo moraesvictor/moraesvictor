@@ -9,6 +9,9 @@
   - HTML5
   - CSS
   - React
+  - GraphQL
+  - TypeScript
+  
 <img align = left src="jsLogo.jpg" width = 20 >
 <img align = left src = "logoHtml.jpg" width = 20>
 <img align = left src = "cssLogo.jpg" width = 20>
