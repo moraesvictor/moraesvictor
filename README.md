@@ -13,9 +13,9 @@
   - TypeScript
   
 <img align = left src="jsLogo.jpg" width = 20 >
-<img align = left src = "logoHtml.jpg" width = 20>
-<img align = left src = "cssLogo.jpg" width = 20>
-<img align = left src = "reactLogo.jpg" width = 20><br>
+<img align = left src="logoHtml.jpg" width = 20>
+<img align = left src="cssLogo.jpg" width = 20>
+<img align = left src="reactLogo.jpg" width = 20><br>
 
 ### Hobbies
  - Soccer/ Goalkeeper
