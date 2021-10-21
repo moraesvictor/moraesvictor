@@ -16,8 +16,12 @@
 <img align = left src="jsLogo.jpg" width = 20 >
 <img align = left src="logoHtml.jpg" width = 20>
 <img align = left src="cssLogo.jpg" width = 20>
-<img align = left src="reactLogo.jpg" width = 20><br>
-
+<img align = left src="reactLogo.jpg" width = 20><br><br>
+  
+  <div>
+    <img =10px src="https://github-readme-stats.vercel.app/api?username=moraesvictor&show_icons=true&theme=radical"/>
+   </div>
+   
 ### Hobbies
  - Soccer/ Goalkeeper
  - Coding
