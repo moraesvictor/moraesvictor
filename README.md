@@ -31,4 +31,4 @@
 <p>Check out below some projects that I'd proudly done: <p>
   
  <span> email: moraesvictorgk@gmail.com </span><br>
- <span> linkedIn: https://www.linkedin.com/in/victor-moraes-88b81b1b8/</span> 
+ <span> LinkedIn: https://www.linkedin.com/in/victor-moraes-88b81b1b8/</span> 
