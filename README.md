@@ -33,7 +33,7 @@
   <p>Check out below some projects that I'd proudly done: <p>
   
  <span> email: moraesvictorgk@gmail.com </span><br>
- <span> LinkedIn: https://www.linkedin.com/in/victor-moraes-88b81b1b8/</span>
+ <span> LinkedIn: https://www.linkedin.com/in/victor-moraes-88b81b1b8/</span><br>
  <span> phone: +55 11 993030267</span>
   
   Feel free to contact via LinkedIn, e-mail, text or phone.
