@@ -5,14 +5,13 @@
 <p> I speak three different languages: Portuguese, italian and english. I'd studied one year college in USA, and also three months in Italy. There I was able to create a good professional and personal relation with people. I am currently pursuing my bachelor's degree in System Analysis and Development<p>
   
   ### Technologies:
+  - React
+  - TypeScript
+  - GraphQL
   - JavaScript
   - HTML5
   - CSS
-  - React
-  - GraphQL
-  - TypeScript
   - NodeJS
-  - Python
   - MySQL
   
 <img align = left src="jsLogo.jpg" width = 20>
