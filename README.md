@@ -29,7 +29,7 @@
  - Games
  - Bass Player
  - Drawning
- - Lean new languages
+ - Learn new languages
 
   <p>Check out below some projects that I'd proudly done: <p>
   
