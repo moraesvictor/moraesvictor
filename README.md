@@ -15,6 +15,7 @@
   - NodeJS
   - MySQL
   - Java
+  - MongoDB
   
 <img align = left src="jsLogo.jpg" width = 20>
 <img align = left src="logoHtml.jpg" width = 20>
