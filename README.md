@@ -27,7 +27,7 @@
    </div>
    
 ### Hobbies
- - Soccer/ Goalkeeper
+ - Soccer / Goalkeeper
  - Coding
  - Games
  - Bass Player
