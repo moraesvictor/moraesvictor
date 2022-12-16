@@ -33,7 +33,7 @@
  - Games
  - Bass Player
  - Drawning
- - Learn new languages
+ - Learning new languages
 
   <p>Check out below some projects that I'd proudly done: <p>
   
