@@ -34,6 +34,7 @@
  - Bass Player
  - Drawning
  - Learning new languages
+ - work out
 
   <p>Check out below some projects that I'd proudly done: <p>
   
