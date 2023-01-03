@@ -8,7 +8,8 @@
   - React
   - TypeScript
   - GraphQL
-  - Apollo
+  - Apollo Client
+  - Apollo Server
   - JavaScript
   - HTML5
   - CSS
