@@ -10,6 +10,7 @@
   - GraphQL
   - Apollo Client
   - Apollo Server
+  - styled-components
   - JavaScript
   - HTML5
   - CSS
