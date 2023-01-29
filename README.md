@@ -19,7 +19,7 @@
   - Java
   - MongoDB
   - Python
-  - Functional Programming**
+  - Functional Programming
   
 <img align = left src="jsLogo.jpg" width = 20>
 <img align = left src="logoHtml.jpg" width = 20>
