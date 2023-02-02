@@ -18,7 +18,6 @@
   - MySQL
   - Java
   - MongoDB
-  - Python
   - Functional Programming
   
 <img align = left src="jsLogo.jpg" width = 20>
