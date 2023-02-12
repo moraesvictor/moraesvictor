@@ -1,8 +1,8 @@
 ### Hi there 👋 
 ## Here is what I'm working on and a little bit about me. 
 <img align = right src = "rickTranscending.jpg" width = 200px>
-<p> My name is Victor, I'm 28 years old and I work as a Front-end Engineer <p>
-<p> I speak three different languages: portuguese, italian and english. I'd studied one year college in USA, and also three months in Italy. There I was able to create a good professional and personal relation with people. I am currently pursuing my bachelor's degree in System Analysis and Development at Uniamerica University and looking for a new opportunity as a software developer.<p>
+<p> My name is Victor, I'm 28 years old and I work as a Front-end Engineer<p>
+<p> I speak three different languages: portuguese, italian and english. I'd studied engineering at Coffeyville Community College for one year in USA, and also three months in Italy. In both plaes I was able to create a good professional and personal relation with people. I am currently pursuing my bachelor's degree in System Analysis and Development at Uniamerica University and looking for a new opportunity as a software developer.<p>
   
   ### Technologies:
   - React
