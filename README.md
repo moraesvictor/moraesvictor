@@ -25,7 +25,7 @@ My name is Victor, I'm a 29-year-old Front-end Engineer at Digital Pages, and I'
 <div style="display: flex;">
   <a href="mailto:moraesvictorgk@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="30" height="30"></a>
   <!-- Ícone do WhatsApp -->
-  <a href="https://wa.me/5511993030267?text=Vi%20seu%20perfil%20no%20Github%20e%20gostei%20bastante" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" width="30" height="30"></a>
+  <a href="https://wa.me/5511993030267?text=Ol%C3%A1%2C%20Victor%21%20Gostei%20bastante%20do%20seu%20perfil%21%20Gostaria%20de%20bater%20um%20papo." target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" width="30" height="30"></a>
   <!-- Ícone do LinkedIn -->
   <a href="https://www.linkedin.com/in/victor-moraes-88b81b1b8/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"></a>
 </div>
