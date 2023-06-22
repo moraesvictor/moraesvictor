@@ -20,6 +20,7 @@ My name is Victor, I'm a 29-year-old Front-end Engineer at Digital Pages, and I'
 - Bass Player
 - Drawing
 - Learning new languages
+- Martial arts
 
 ## Contact Me
 <div style="display: flex;">
