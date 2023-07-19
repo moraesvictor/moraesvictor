@@ -23,6 +23,7 @@ My name is Victor, I'm a 29-year-old Front-end Engineer at Ready.dev. Currently,
 - Drawing
 - Learning new languages
 - Martial arts - Taekwondo
+- traveling
 
 ## Contact Me
 <div style="display: flex;">
