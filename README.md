@@ -14,6 +14,7 @@ My name is Victor, I'm a 29-year-old Front-end Engineer at Ready.dev. Currently,
 - [Project Star Wars](https://github.com/moraesvictor/Project-star-wars)
 - [Project React Native Calculator App](https://github.com/moraesvictor/react-native-calculator)
 - [Project React Native Mines](https://github.com/moraesvictor/react-native-mines)
+- [Project My Wallet Expenses](https://github.com/moraesvictor/my-wallet)
 
 ## Hobbies
 - Soccer (Goalkeeper)
