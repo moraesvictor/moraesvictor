@@ -24,7 +24,7 @@ Hello, I'm Victor, a 29-year-old Software Engineer at Informaker. Currently, I'm
 - Drawing
 - Learning new languages
 - Martial arts - Taekwondo
-- Traveling
+- Travelling
 
 ## Contact Me
 <div style="display: flex;">
