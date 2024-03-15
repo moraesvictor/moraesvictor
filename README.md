@@ -9,6 +9,7 @@ Hello, I'm Victor, a 29-year-old Software Engineer at Daki. Currently, I'm worki
 - Paradigms: Functional Programming
 
 ## Projects
+- [Ricky and Morty explorer](rickandmorty-ashy-nine.vercel.app)
 - [Project Apollo Server](https://github.com/moraesvictor/apollo-server)
 - [Project Fruit Calories](https://github.com/moraesvictor/desafio-fruit-calories)
 - [Project Star Wars](https://github.com/moraesvictor/Project-star-wars)
