@@ -45,13 +45,13 @@ My passion lies in crafting clean, scalable, and efficient web applications usin
 
 <p align="center">
   <a href="https://github.com/moraesvictor/rickandmorty">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=moraesvictor&repo=rickandmorty&theme=radical"/>
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=moraesvictor&repo=rickandmorty&theme=radical&cache_seconds=1800"/>
   </a>
   <a href="https://github.com/moraesvictor/apollo-server">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=moraesvictor&repo=apollo-server&theme=radical"/>
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=moraesvictor&repo=apollo-server&theme=radical&cache_seconds=1800"/>
   </a>
   <a href="https://github.com/moraesvictor/tech-challenge">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=moraesvictor&repo=tech-challenge&theme=radical"/>
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=moraesvictor&repo=tech-challenge&theme=radical&cache_seconds=1800"/>
   </a>
 </p>
 
