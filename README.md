@@ -50,7 +50,11 @@ My passion lies in crafting clean, scalable, and efficient web applications usin
   <a href="https://github.com/moraesvictor/apollo-server">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=moraesvictor&repo=apollo-server&theme=radical"/>
   </a>
+  <a href="https://github.com/moraesvictor/tech-challenge">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=moraesvictor&repo=tech-challenge&theme=radical"/>
+  </a>
 </p>
+
 
 [🔍 View more projects](https://github.com/moraesvictor?tab=repositories)
 
