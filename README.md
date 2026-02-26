@@ -68,7 +68,7 @@ My passion lies in crafting clean, scalable, and efficient web applications usin
 - 🎸 Bass Playing
 - ✏️ Drawing
 - 🌍 Learning New Languages
-- 🥋 Martial Arts (Taekwondo)
+- 🥋 Martial Arts (Taekwondo & Karate)
 - ✈️ Traveling
 
 ---
