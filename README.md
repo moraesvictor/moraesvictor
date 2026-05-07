@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-Hey! I'm Victor, a 31-year-old Software Engineer at Daki. I'm currently pursuing a postgraduate degree at FIAP. I’m fluent in Portuguese, Italian, and English, having studied engineering for a year in the USA and spent three months in Italy.
+Hey! I'm Victor, a 32-year-old Software Engineer at Daki. I'm currently pursuing a postgraduate degree at FIAP. I’m fluent in Portuguese, Italian, and English, having studied engineering for a year in the USA and spent three months in Italy.
 
 My passion lies in crafting clean, scalable, and efficient web applications using modern technologies. I'm always exploring new trends and improving my skills to build high-quality software that solves real-world problems.
 
